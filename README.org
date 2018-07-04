@@ -1,0 +1,11 @@
+#+TITLE: Homesick Levy Walk mobility model for pdtnsim
+
+* About
+
+  *pdtnsim* is a DTN simulator written in Perl.\\
+  This repository includes =HomesickLevyWalk.pm= only.\\
+  In order to simulate using homesick levy walk mobility model with this module, install pdtnsim first, which is available at http://www.lsnl.jp/~ohsaki/software/pdtnsim/.
+  
+* My Contribution
+
+  implementation of *Homesick Levy Walk* mobility model for pdtnsim
